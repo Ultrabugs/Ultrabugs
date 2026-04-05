@@ -2,4 +2,5 @@
 
 ## Hi there 👋
 
-
+Learning web development with the odin project: https://www.theodinproject.com/
+Focusing on web development and web security.
